@@ -33,4 +33,5 @@ Our approach is anchored on the _journey of a biosignal_: from its genesis by th
 ![journey](./_Resources/the-biosignal-flow.png)
 
 ###### Some final notes
-ScientISST Notebooks is managed and maintained by the ScientISST team at Instituto de Telecomunicações (IT), Lisboa, Portugal. For more of what we do at ScientISST, check out our website and follow us on Social.
+ScientISST Notebooks is managed and maintained by the ScientISST team at Instituto de Telecomunicações (IT), Lisboa, Portugal. For more of what we do at ScientISST, check out our website and follow us on Social.  
+![website-banner](./_Resources/website-banner.png)
