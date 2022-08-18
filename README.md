@@ -14,13 +14,13 @@ The program of the courses that we currently support can be found in the followi
 ## Knowledge Areas
 The currently suported areas of knowledge are the following:
 
-- [A. Setting up Basic Concepts, Tools and Your Workspace](./A.&#32Setting&#32up&#32Basic&#32Concepts,&#32Tools&#32and&#32Your&#32Workspace/)
-- [B. Instrumentation: from Sensing to Digitization](./B.&#32Instrumentation:&#32from&#32Sensing&#32to&#32Digitization/)
-- [C. Biosignal Collection](./C.&#32Biosignal&#32Collection/)
-- [D. Processing Biosignals](./D.&#32Processing&#32Biosignals/)
-- [E. Managing Data Storage and Visualization](./E.&#32Managing&#32Data&#32Storage&#32and&#32Visualization/)
-- [F. Machine Learning and Knowledge Extraction](./F.&#32Machine&#32Learning&#32and&#32Knowledge&#32Extraction/)
-- [G. Community Applications](./G.&#32Community&#32Applications:&#32Real-Life&#32Examples&#32and&#32Other&#32Useful&#32Content/)
+- [A. Setting up Basic Concepts, Tools and Your Workspace](./A.%20Setting%20up%20Basic%20Concepts,%20Tools%20and%20Your%20Workspace/)
+- [B. Instrumentation: from Sensing to Digitization](./B.%20Instrumentation:%20from%20Sensing%20to%20Digitization/)
+- [C. Biosignal Collection](./C.%20Biosignal%20Collection/)
+- [D. Processing Biosignals](./D.%20Processing%20Biosignals/)
+- [E. Managing Data Storage and Visualization](./E.%20Managing%20Data%20Storage%20and%20Visualization/)
+- [F. Machine Learning and Knowledge Extraction](./F.%20Machine%20Learning%20and%20Knowledge%20Extraction/)
+- [G. Community Applications](./G.%20Community%20Applications:%20Real-Life%20Examples%20and%20Other%20Useful%20Content/)
 
 Browse the latest release of the ScientISST Notebooks using Google Colab to open the Jupyter Notebooks directly:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/)
