@@ -6,10 +6,10 @@ The structure of the repository transpires the **duality** of our purpose: the c
 
 ## Courses
 The program of the courses that we currently support can be found in the following links:
-- [IEB - Introduction to Biomedical Engineering](https://github.com/PIA-Group/ScientISST-notebooks/blob/master/_Courses/IST-UL-IEB-IntroductiontoBiomedicalEngineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
-- [TMED - Telemedicine](https://github.com/PIA-Group/ScientISST-notebooks/blob/master/_Courses/IPS-ESS-TMED-Telemedicine.md) - ```Escola Superior de Tecnologia de Setúbal, IPS```
+- [IEB - Introduction to Biomedical Engineering](./_Courses/IST-UL-IEB-IntroductiontoBiomedicalEngineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
+- [TMED - Telemedicine](./_Courses/IPS-ESS-TMED-Telemedicine.md) - ```Escola Superior de Tecnologia de Setúbal, IPS```
 - [IAS - Signal Acquisition Instrumentation in Bioengineering](./_Courses/IST-UL-IAS-SignalAcquisitionInstrumentationinBioengineering.MD) - ```Instituto Superior Técnico, Universidade de Lisboa```
-- [MLB - Machine Learning in Bioengineering](https://github.com/PIA-Group/ScientISST-notebooks/blob/master/_Courses/IST-UL-MLB-MachineLearninginBioengineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
+- [MLB - Machine Learning in Bioengineering](./_Courses/IST-UL-MLB-MachineLearninginBioengineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
 
 ## Knowledge Areas
 The currently suported areas of knowledge are the following:
