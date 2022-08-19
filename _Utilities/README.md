@@ -1,4 +1,6 @@
 
+### This documentation and utilities is deprecated - please refer to the [scientisst-NButils repository](https://github.com/scientisst/scientisst-NButils.git)
+
 Global Documentation - ScientISST Utilities 
 ============================================
 
