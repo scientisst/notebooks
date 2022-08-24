@@ -14,13 +14,13 @@ The program of the courses that we currently support can be found in the followi
 ## Knowledge Areas
 The currently suported areas of knowledge are the following:
 
-- [A. Setting up Basic Concepts, Tools and Your Workspace](./A.Setting%20up%20Your%20Tools%20and%20Workspace/)
+- [A. Setting up Your Tools and Workspace](./A.Setting%20up%20Your%20Tools%20and%20Workspace/)
 - [B. Instrumentation: from Sensing to Digitization](./B.Instrumentation/)
 - [C. Biosignal Collection](./C.Biosignal%20Acquisition/)
 - [D. Processing Biosignals](./D.Biosignal%20Processing/)
 - [E. Managing Data Storage and Visualization](./E.Managing%20Data%20Storage%20and%20Visualization/)
 - [F. Machine Learning and Knowledge Extraction](./F.Machine%20Learning%20and%20Knowledge%20Extraction/)
-- [G. Community Applications](./G.Community%20Applications%20and%20Other%20Useful%20Content/)
+- [G. Community Applications and Other Useful Content](./G.Community%20Applications%20and%20Other%20Useful%20Content/)
 
 Browse the latest release of the ScientISST Notebooks using Google Colab to open the Jupyter Notebooks directly:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/)
