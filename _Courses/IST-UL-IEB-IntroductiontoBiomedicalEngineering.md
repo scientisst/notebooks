@@ -38,7 +38,5 @@ Prof. Ana Luisa Nobre Fred ([afred@lx.it.pt](mailto:afred@lx.it.pt))
 ## Program
 Title | Last Update | Chapter | Open Notebook 
 --- | ---| --- | ---
- A007 File Exploration |  dd/mm/aa | A.Setting up Your Tools and Workspace | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/A.Setting%20up%20Your%20Tools%20and%20Workspace/A007%20File%20Exploration/A007%20File%20Exploration) 
- A009 Essentials of Post-processing |  dd/mm/aa | A.Setting up Your Tools and Workspace | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/A.Setting%20up%20Your%20Tools%20and%20Workspace/A009%20Essentials%20of%20Post-processing/A009%20Essentials%20of%20Post-processing) 
  F001 Working with Features |  dd/mm/aa | F.Machine Learning and Knowledge Extraction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/F.Machine%20Learning%20and%20Knowledge%20Extraction/F001%20Working%20with%20Features/F001%20Working%20with%20Features) 
  C005 Basic Primer on APIs |  dd/mm/aa | C.Biosignal Acquisition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C005%20Basic%20Primer%20on%20APIs/C005%20Basic%20Primer%20on%20APIs) 
