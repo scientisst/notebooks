@@ -29,7 +29,7 @@ Prof. Ana Luisa Nobre Fred ([afred@lx.it.pt](mailto:afred@lx.it.pt))
 
 
 ## Program
-Title | Date | Chapter | Notebook 
+Title | Last Update | Chapter | Open Notebook 
 --- | ---| --- | ---
 C010 Setup your Python Workspace | X/10/2020 | C - Signal Processing |  [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PIA-Group/ScientIST-notebooks/master?urlpath=lab/tree/C.Signal_Processing/C010%20Setup%20your%20Python%20workspace.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIA-Group/ScientIST-notebooks/blob/master/C.Signal_Processing/C010%20Setup%20your%20Python%20workspace.ipynb) 
 A002 Science Journal | X/10/2020 | A - Introduction to Signal Acquisition |   [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/PIA-Group/ScientIST-notebooks/master?urlpath=lab/tree/A.Signal_Acquisition/A002%20Science%20Journal.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIA-Group/ScientIST-notebooks/blob/master/A.Signal_Acquisition/A002%20Science%20Journal.ipynb) 
