@@ -4,6 +4,8 @@ ScientISST Notebooks is a repository of educational content both teachers and le
 
 The structure of the repository transpires the **duality** of our purpose: the contents are separated by knowledge area (for anyone that wishes to learn about a certain topic), as well as by academic courses (to be used and adapted by teachers for their courses). 
 
+_Note: If you wish to download one folder/repository, there are a few tools created by the community that can do this for you. Check the discussion [here](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)_
+
 ## Courses
 The program of the courses that we currently support can be found in the following links:
 - [IEB - Introduction to Biomedical Engineering](./_Courses/IST-UL-IEB-IntroductiontoBiomedicalEngineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
