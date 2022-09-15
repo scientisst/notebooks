@@ -7,7 +7,6 @@ Notebook | Chapter | Tags | Contributers | Last update
 A001 Open Signals | A | Open Signals, Biosignals, Physiological Signals Acquisition| Update authors| dd/mm/aa|
 A002 Arduino Essentials | A | Arduino, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A003 Arduino - Getting started | A | Arduino, Embedded systems| Update authors| dd/mm/aa|
-A004 Seeeduino Nano Essentials | A | ```Arduino```, ```Embedded Systems ```, ```Signals Acquisition```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 A005 Seeeduino XIAO Essentials | A | Seeeduino XIAO, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A006 ScientISST - Arduino IDE tutorial | A | Sense, Arduino, IDE| Update authors| dd/mm/aa|
 A007 File Exploration | A | Hierarchical Data Format (HDF), Data Loading, Metadata| Update authors| dd/mm/aa|
@@ -15,14 +14,15 @@ A008 Setup your Python workspace | A | Python, Anaconda Navigator, Jupyter Noteb
 A009 Essentials of Post-processing | A | Low-Pass Filter, Python, Plotting| Update authors| dd/mm/aa|
 B001 Basic active circuits with an OpAmp | B | ```Operational Amplifiers```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B002 Frequency response | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
-B003 Equipment of electronics laboratory and basic circuits | B | `Electronics`, `Laboratory`, `Instrumentation`, `Arduino`, `IDE`, `Seeeduino`| Afonso Raposo; Prof. Hugo Silva| 2021|
+B003 Introduction to the Laboratory Equipment | B | `Electronics`, `Equipment`, `Instrumentation`, `Arduino`, `Arduino IDE`, `Seeeduino Nano`| Ana Sofia Carmo, Afonso Raposo, Prof. Hugo Silva| 09/2022|
 B004 Digital to Analog Converter - DAC | B | ```Digital to Analog Conversion (DAC)```, ```Digital Signal Processing (DSP)```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
-B005 Analog-to-Digital Conversion (ADC) | B | ``` Analog to Digital Conversion (ADC)```, ```Digital Signal Processing (DSP)```, ```Embedded Systems```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
+B005 Analog-to-Digital Conversion (ADC) | B | `Analog to Digital Conversion (ADC)`, `Digital Signal Processing (DSP)`, `Embedded Systems`| Ana Sofia Carmo; Afonso Raposo; Joana Pinto; Prof. Hugo Silva| 09/2022|
 B006 Digital to Analog Converter | B | Digital to Analog Converter (DAC), Digital Signal Processing (DSP), Arduino| Update authors| dd/mm/aa|
 B007 Basic Circuit Analysis | B | ```RC Circuits```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B008 Analog Signals | B | Analog-to-Digital Conversion (ADC), Digital-to-Analog Conversion (DAC), Elementary Feedback, Embedded Systems| Update authors| dd/mm/aa|
 B009 Data Transmission | B | Digital Systems, Data Streaming, Embedded Systems| Update authors| dd/mm/aa|
 B010 Sampling | B | Time Sampling, Real-Time Acquisition Systems, Embedded Systems| Update authors| dd/mm/aa|
+B011 Working with Arduino and Digital Interfaces | B | `Arduino`, `Embedded Systems `, `Digital Read`, `Serial Communication`| Ana Sofia Carmo, Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 09/2022|
 C001 Science Journal | C | Experimental Journal, Mobile Devices, Data Acquisition| Update authors| dd/mm/aa|
 C002 OpenSignals for Annotations | C | Open Signals, HDF5 Files, Annotations| Update authors| dd/mm/aa|
 C003 ESP32 Firebase Connection | C | Internet of Things, Microcontrollers, Google Firebase| Update authors| dd/mm/aa|
