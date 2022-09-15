@@ -2,12 +2,12 @@
  This table provides an overview of the complete set of notebooks made available in this repository. 
 
  ## Detailed Index:  
-Notebook | Chapter | Tags | Authors | Last update 
+Notebook | Chapter | Tags | Contributers | Last update 
 --- | --- | --- | --- | --- 
 A001 Open Signals | A | Open Signals, Biosignals, Physiological Signals Acquisition| Update authors| dd/mm/aa|
 A002 Arduino Essentials | A | Arduino, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A003 Arduino - Getting started | A | Arduino, Embedded systems| Update authors| dd/mm/aa|
-A004 Seeeduino Nano Essentials | A | Seeeduino Nano, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
+A004 Seeeduino Nano Essentials | A | ```Arduino```, ```Embedded Systems ```, ```Signals Acquisition```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 A005 Seeeduino XIAO Essentials | A | Seeeduino XIAO, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A006 ScientISST - Arduino IDE tutorial | A | Sense, Arduino, IDE| Update authors| dd/mm/aa|
 A007 File Exploration | A | Hierarchical Data Format (HDF), Data Loading, Metadata| Update authors| dd/mm/aa|
@@ -17,7 +17,7 @@ B001 Basic active circuits with an OpAmp | B | Operation Amplifier (OpAmp), Inve
 B002 Frequency response | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
 B003 Equipment of electronics laboratory and basic circuits | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
 B004 Digital to Analog Converter - DAC | B | Digital to Analog Converter (DAC), Digital Signal Processing (DSP), Arduino| Update authors| dd/mm/aa|
-B005 Analog-to-Digital Conversion (ADC) | B |  Analog to Digital Conversion (ADC), Digital Signal Processing (DSP), Embedded Systems| Update authors| dd/mm/aa|
+B005 Analog-to-Digital Conversion (ADC) | B | ``` Analog to Digital Conversion (ADC)```, ```Digital Signal Processing (DSP)```, ```Embedded Systems```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 B006 Digital to Analog Converter | B | Digital to Analog Converter (DAC), Digital Signal Processing (DSP), Arduino| Update authors| dd/mm/aa|
 B007 Basic Circuit Analysis | B | RC Circuits, Circuit Analysis, Arduino| Update authors| dd/mm/aa|
 B008 Analog Signals | B | Analog-to-Digital Conversion (ADC), Digital-to-Analog Conversion (DAC), Elementary Feedback, Embedded Systems| Update authors| dd/mm/aa|
@@ -26,7 +26,7 @@ B010 Sampling | B | Time Sampling, Real-Time Acquisition Systems, Embedded Syste
 C001 Science Journal | C | Experimental Journal, Mobile Devices, Data Acquisition| Update authors| dd/mm/aa|
 C002 OpenSignals for Annotations | C | Open Signals, HDF5 Files, Annotations| Update authors| dd/mm/aa|
 C003 ESP32 Firebase Connection | C | Internet of Things, Microcontrollers, Google Firebase| Update authors| dd/mm/aa|
-C004 Live Streaming | C | Serial Port, Python, Live Streaming| Update authors| dd/mm/aa|
+C004 Live Streaming and Signal Processing | C | ```Serial Port```, ```Python```, ```Live Streaming```, `Signal Processing`| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 C005 Basic Primer on APIs | C | Application Programming Interfaces (APIs), Python, BITalino| Update authors| dd/mm/aa|
 C006 Real-time Analytics | C | Electromyography (EMG), Python, Biofeedback System| Update authors| dd/mm/aa|
 D001 IIR Adaptive Filtering | D | Body Temperature, Thermometer, Adaptive filters,IIR filters| Update authors| dd/mm/aa|

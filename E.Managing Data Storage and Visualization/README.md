@@ -2,7 +2,7 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Authors | Last update 
+Notebook  | Tags | Contributers | Last update 
 ---  | --- | --- | --- 
 E001 From Python to the World | Web Sockets (WS), Data Reception, Data Transmission,Client-server architecture| Update authors| dd/mm/aa|
 E002 Interchanging Structured Data | JavaScript Object Notation (JSON), Structure Data, Metadata, HTML,CSS,JS| Update authors| dd/mm/aa|
