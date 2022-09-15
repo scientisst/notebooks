@@ -13,13 +13,13 @@ A006 ScientISST - Arduino IDE tutorial | A | Sense, Arduino, IDE| Update authors
 A007 File Exploration | A | Hierarchical Data Format (HDF), Data Loading, Metadata| Update authors| dd/mm/aa|
 A008 Setup your Python workspace | A | Python, Anaconda Navigator, Jupyter Notebooks, IPython, Spyder| Update authors| dd/mm/aa|
 A009 Essentials of Post-processing | A | Low-Pass Filter, Python, Plotting| Update authors| dd/mm/aa|
-B001 Basic active circuits with an OpAmp | B | Operation Amplifier (OpAmp), Inverter and Non-inverter Configurations| Update authors| dd/mm/aa|
+B001 Basic active circuits with an OpAmp | B | ```Operational Amplifiers```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B002 Frequency response | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
-B003 Equipment of electronics laboratory and basic circuits | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
-B004 Digital to Analog Converter - DAC | B | Digital to Analog Converter (DAC), Digital Signal Processing (DSP), Arduino| Update authors| dd/mm/aa|
+B003 Equipment of electronics laboratory and basic circuits | B | `Electronics`, `Laboratory`, `Instrumentation`, `Arduino`, `IDE`, `Seeeduino`| Afonso Raposo; Prof. Hugo Silva| 2021|
+B004 Digital to Analog Converter - DAC | B | ```Digital to Analog Conversion (DAC)```, ```Digital Signal Processing (DSP)```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 B005 Analog-to-Digital Conversion (ADC) | B | ``` Analog to Digital Conversion (ADC)```, ```Digital Signal Processing (DSP)```, ```Embedded Systems```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 B006 Digital to Analog Converter | B | Digital to Analog Converter (DAC), Digital Signal Processing (DSP), Arduino| Update authors| dd/mm/aa|
-B007 Basic Circuit Analysis | B | RC Circuits, Circuit Analysis, Arduino| Update authors| dd/mm/aa|
+B007 Basic Circuit Analysis | B | ```RC Circuits```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B008 Analog Signals | B | Analog-to-Digital Conversion (ADC), Digital-to-Analog Conversion (DAC), Elementary Feedback, Embedded Systems| Update authors| dd/mm/aa|
 B009 Data Transmission | B | Digital Systems, Data Streaming, Embedded Systems| Update authors| dd/mm/aa|
 B010 Sampling | B | Time Sampling, Real-Time Acquisition Systems, Embedded Systems| Update authors| dd/mm/aa|
