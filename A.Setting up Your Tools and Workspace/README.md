@@ -2,12 +2,12 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Authors | Last update 
+Notebook  | Tags | Contributers | Last update 
 ---  | --- | --- | --- 
 A001 Open Signals | Open Signals, Biosignals, Physiological Signals Acquisition| Update authors| dd/mm/aa|
 A002 Arduino Essentials | Arduino, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A003 Arduino - Getting started | Arduino, Embedded systems| Update authors| dd/mm/aa|
-A004 Seeeduino Nano Essentials | Seeeduino Nano, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
+A004 Seeeduino Nano Essentials | ```Arduino```, ```Embedded Systems ```, ```Signals Acquisition```| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
 A005 Seeeduino XIAO Essentials | Seeeduino XIAO, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A006 ScientISST - Arduino IDE tutorial | Sense, Arduino, IDE| Update authors| dd/mm/aa|
 A007 File Exploration | Hierarchical Data Format (HDF), Data Loading, Metadata| Update authors| dd/mm/aa|

@@ -2,7 +2,7 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Authors | Last update 
+Notebook  | Tags | Contributers | Last update 
 ---  | --- | --- | --- 
 F001 Working with Features | Electrocardiography (ECG), Python, Poincare Plot, Heart Rate Variability| Update authors| dd/mm/aa|
 F002 Signal Classification Using SL | Supervised Learning, Biosignals,Signal Classification| Update authors| dd/mm/aa|

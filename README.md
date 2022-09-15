@@ -11,6 +11,7 @@ The program of the courses that we currently support can be found in the followi
 - [IEB - Introduction to Biomedical Engineering](./_Courses/IST-UL-IEB-IntroductiontoBiomedicalEngineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
 - [TMED - Telemedicine](./_Courses/IPS-ESS-TMED-Telemedicine.md) - ```Escola Superior de Tecnologia de Setúbal, IPS```
 - [IAS - Signal Acquisition Instrumentation in Bioengineering](./_Courses/IST-UL-IAS-SignalAcquisitionInstrumentationinBioengineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
+- [FBio - Principles of Bioinstrumentation](./_Courses/IST-UL-FBio-PrinciplesofBioinstrumentation.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
 - [MLB - Machine Learning in Bioengineering](./_Courses/IST-UL-MLB-MachineLearninginBioengineering.md) - ```Instituto Superior Técnico, Universidade de Lisboa```
 
 ## Knowledge Areas
