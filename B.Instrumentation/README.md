@@ -2,7 +2,7 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Contributers | Last update 
+Notebook  | Tags | Contributors | Last update 
 ---  | --- | --- | --- 
 B001 Basic active circuits with an OpAmp | ```Operational Amplifiers```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B002 Frequency response | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
