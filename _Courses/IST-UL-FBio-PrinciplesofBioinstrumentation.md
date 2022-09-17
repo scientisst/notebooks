@@ -1,5 +1,5 @@
 # Principles of Bioinstrumentation (FBio)
-```Licenciatura em Engenharia Biomédica``` | ```Instituto Superior Técnico, Universidade de Lisboa``` | ```2021-2022```
+```Licenciatura em Engenharia Biomédica``` | ```Instituto Superior Técnico, Universidade de Lisboa``` | ```2022-2023```
 
 ## Description & Objectives
 
@@ -31,6 +31,7 @@ Prof. Hugo Silva  ([hsilva@lx.it.pt](mailto:hsilva@lx.it.pt))
 ## Program
 Title | Last Update | Chapter | Open Notebook 
 --- | ---| --- | ---
-A004 Seeeduino Nano Essentials |  2021 | A.Setting up Your Tools and Workspace | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/A.Setting%20up%20Your%20Tools%20and%20Workspace/A004%20Seeeduino%20Nano%20Essentials/A004%20Seeeduino%20Nano%20Essentials.ipynb) 
-B005 Analog-to-Digital Conversion (ADC) |  2021 | B.Instrumentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/B.Instrumentation/B005%20Analog-to-Digital%20Conversion%20(ADC)/B005%20Analog-to-Digital%20Conversion%20(ADC).ipynb) 
+B003 Introduction to the Laboratory Equipment |  09/2022 | B.Instrumentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/B.Instrumentation/B003%20Introduction%20to%20the%20Laboratory%20Equipment/B003%20Introduction%20to%20the%20Laboratory%20Equipment.ipynb) 
+B011 Working with Arduino and Digital Interfaces |  09/2022 | B.Instrumentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/B.Instrumentation/B011%20Working%20with%20Arduino%20and%20Digital%20Interfaces/B011%20Working%20with%20Arduino%20and%20Digital%20Interfaces.ipynb) 
+B005 Analog-to-Digital Conversion (ADC) |  09/2022 | B.Instrumentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/B.Instrumentation/B005%20Analog-to-Digital%20Conversion%20(ADC)/B005%20Analog-to-Digital%20Conversion%20(ADC).ipynb) 
 C004 Live Streaming and Signal Processing |  2021 | C.Biosignal Acquisition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C004%20Live%20Streaming%20and%20Signal%20Processing/C004%20Live%20Streaming%20and%20Signal%20Processing.ipynb) 
