@@ -2,10 +2,10 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Contributors | Last update 
----  | --- | --- | --- 
-E001 From Python to the World | Web Sockets (WS), Data Reception, Data Transmission,Client-server architecture| Update authors| dd/mm/aa|
-E002 Interchanging Structured Data | JavaScript Object Notation (JSON), Structure Data, Metadata, HTML,CSS,JS| Update authors| dd/mm/aa|
-E003 Into the World Wild Web | HyperText Markup Language (HTML), Web Page Structuring, Metadata, HTML/CSS/JS| Update authors| dd/mm/aa|
-E004 Jazzing Up Your UIs | Cascading Style Sheets (CSS), Web Page Formatting| Update authors| dd/mm/aa|
-E005 How to Tame Your Pages | JavaScript (JS), Web Page Dynamic Interactions| Update authors| dd/mm/aa|
+Notebook | Tags | Contributors | Last update | Open Notebook 
+--- | --- | --- | --- | --- 
+E001 From Python to the World | Web Sockets (WS), Data Reception, Data Transmission,Client-server architecture| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/E.Managing%20Data%20Storage%20and%20Visualization/E001%20From%20Python%20to%20the%20World/E001%20From%20Python%20to%20the%20World.ipynb) 
+E002 Interchanging Structured Data | JavaScript Object Notation (JSON), Structure Data, Metadata, HTML,CSS,JS| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/E.Managing%20Data%20Storage%20and%20Visualization/E002%20Interchanging%20Structured%20Data/E002%20Interchanging%20Structured%20Data.ipynb) 
+E003 Into the World Wild Web | HyperText Markup Language (HTML), Web Page Structuring, Metadata, HTML/CSS/JS| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/E.Managing%20Data%20Storage%20and%20Visualization/E003%20Into%20the%20World%20Wild%20Web/E003%20Into%20the%20World%20Wild%20Web.ipynb) 
+E004 Jazzing Up Your UIs | Cascading Style Sheets (CSS), Web Page Formatting| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/E.Managing%20Data%20Storage%20and%20Visualization/E004%20Jazzing%20Up%20Your%20UIs/E004%20Jazzing%20Up%20Your%20UIs.ipynb) 
+E005 How to Tame Your Pages | JavaScript (JS), Web Page Dynamic Interactions| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/E.Managing%20Data%20Storage%20and%20Visualization/E005%20How%20to%20Tame%20Your%20Pages/E005%20How%20to%20Tame%20Your%20Pages.ipynb) 

@@ -2,12 +2,12 @@
  This table provides an overview of the complete set of notebooks made available in this chapter. 
 
  ## Detailed Index:  
-Notebook  | Tags | Contributors | Last update 
----  | --- | --- | --- 
-C001 Science Journal | Experimental Journal, Mobile Devices, Data Acquisition| Update authors| dd/mm/aa|
-C002 OpenSignals for Annotations | Open Signals, HDF5 Files, Annotations| Update authors| dd/mm/aa|
-C003 ESP32 Firebase Connection | Internet of Things, Microcontrollers, Google Firebase| Update authors| dd/mm/aa|
-C004 Live Streaming and Signal Processing | ```Serial Port```, ```Python```, ```Live Streaming```, `Signal Processing`| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021|
-C005 Basic Primer on APIs | Application Programming Interfaces (APIs), Python, BITalino| Update authors| dd/mm/aa|
-C006 Real-time Analytics | Electromyography (EMG), Python, Biofeedback System| Update authors| dd/mm/aa|
-C007 Principles of Biosignal Acquisition | `Biosignal Acquisition`, `SENSE`, `SENSE API`, `Data Visualization`| Rafael Silva, Hugo Plácido da Silva, Ana Fred| 16/05/2022|
+Notebook | Tags | Contributors | Last update | Open Notebook 
+--- | --- | --- | --- | --- 
+C001 Science Journal | Experimental Journal, Mobile Devices, Data Acquisition| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C001%20Science%20Journal/C001%20Science%20Journal.ipynb) 
+C002 OpenSignals for Annotations | Open Signals, HDF5 Files, Annotations| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C002%20OpenSignals%20for%20Annotations/C002%20OpenSignals%20for%20Annotations.ipynb) 
+C003 ESP32 Firebase Connection | Internet of Things, Microcontrollers, Google Firebase| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C003%20ESP32%20Firebase%20Connection/C003%20ESP32%20Firebase%20Connection.ipynb) 
+C004 Live Streaming and Signal Processing | ```Serial Port```, ```Python```, ```Live Streaming```, `Signal Processing`| Afonso Raposo, Joana Pinto, Prof. Hugo Silva| 2021| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C004%20Live%20Streaming%20and%20Signal%20Processing/C004%20Live%20Streaming%20and%20Signal%20Processing.ipynb) 
+C005 Basic Primer on APIs | Application Programming Interfaces (APIs), Python, BITalino| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C005%20Basic%20Primer%20on%20APIs/C005%20Basic%20Primer%20on%20APIs.ipynb) 
+C006 Real-time Analytics | Electromyography (EMG), Python, Biofeedback System| Update authors| dd/mm/aa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C006%20Real-time%20Analytics/C006%20Real-time%20Analytics.ipynb) 
+C007 Principles of Biosignal Acquisition | `Biosignal Acquisition`, `SENSE`, `SENSE API`, `Data Visualization`| Rafael Silva, Hugo Plácido da Silva, Ana Fred| 16/05/2022| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/scientisst/notebooks/blob/master/C.Biosignal%20Acquisition/C007%20Principles%20of%20Biosignal%20Acquisition/C007%20Principles%20of%20Biosignal%20Acquisition.ipynb) 
