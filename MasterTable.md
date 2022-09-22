@@ -44,7 +44,7 @@ E005 How to Tame Your Pages | E | JavaScript (JS), Web Page Dynamic Interactions
 F001 Working with Features | F | Electrocardiography (ECG), Python, Poincare Plot, Heart Rate Variability| Update authors| dd/mm/aa|
 F002 Signal Classification Using SL | F | Supervised Learning, Biosignals,Signal Classification| Update authors| dd/mm/aa|
 F003 Classification of Human Activity Data | F | Supervised Learning,Unsupervised Learning, Accelerometry Data| Update authors| dd/mm/aa|
-F004 Clustering of Human Activity Data | F | Clustering,Unsupervised Learning, Accelerometry Data| Update authors| dd/mm/aa|
+F004 Clustering of Human Activity Data | F | `Clustering`, `Unsupervised Learning`, `Accelerometry Data`| Mariana Abreu, Patrícia Bota, Ana Fred| 2021|
 F005 Biosignal Feature Extraction | F | `ECG`, `BioSSPy`, `Feature Extraction`, `HRV`| Rafael Silva, Hugo Plácido da Silva and Ana Fred| 13/06/2022|
 F006 Introduction to Classification | F | `Classification`, `ML`, `Scikit Learn`, `HRV`| Rafael Silva, Hugo Plácido da Silva and Ana Fred| 18/06/2022|
 G001 Continuous Body Temperature  Measurement   using an IR Senso | G | Body Temperature, Thermometer, Kalman filter,IIR filters| Update authors| dd/mm/aa|
