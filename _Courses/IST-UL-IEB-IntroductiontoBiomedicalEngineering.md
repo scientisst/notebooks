@@ -24,7 +24,7 @@ and written formats. The course aims:
 `Theoretical Classes:` [Tuesdays 8AM-10AM](https://fenix.tecnico.ulisboa.pt/disciplinas/IEB/2021-2022/2-semestre/horario)
 
 `Practical Classes:` [Tuesdays 10:30AM-11:30AM](https://fenix.tecnico.ulisboa.pt/disciplinas/IEB/2021-2022/2-semestre/horario)
-| [Thursdays 8:30AM-9:30AM & 11:30AM-12:30AM](https://fenix.tecnico.ulisboa.pt/disciplinas/IEB/2021-2022/2-semestre/horario)
+| [Thursdays 8:30AM-9:30AM](https://fenix.tecnico.ulisboa.pt/disciplinas/IEB/2021-2022/2-semestre/horario)
 | [Thursdays 11:30AM-12:30AM](https://fenix.tecnico.ulisboa.pt/disciplinas/IEB/2021-2022/2-semestre/horario)
 
 `Tutoring:` To be defined with tutors.
