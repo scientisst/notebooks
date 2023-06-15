@@ -8,11 +8,12 @@ A001 Open Signals | A | Open Signals, Biosignals, Physiological Signals Acquisit
 A002 Arduino Essentials | A | Arduino, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
 A003 Arduino - Getting started | A | Arduino, Embedded systems| Update authors| dd/mm/aa|
 A005 Seeeduino XIAO Essentials | A | Seeeduino XIAO, Embedded Systems , Signals Acquisition| Update authors| dd/mm/aa|
-A006 ScientISST - Arduino IDE tutorial | A | Sense, Arduino, IDE| Update authors| dd/mm/aa|
+A006 ScientISST - Arduino IDE tutorial | A | `ScientISST`, `ScientISST CORE`, `Arduino IDE`, `Firmware`| Leonor Pereira; Ana Sofia Carmo; Francisco Melo; Afonso Raposo; Prof. Hugo Silva| 11/22|
 A007 File Exploration | A | Hierarchical Data Format (HDF), Data Loading, Metadata| Update authors| dd/mm/aa|
 A008 Setup your Python workspace | A | `Programming`, `Python`, `Anaconda`, `Data Visualization`, `Data Structures`| Rafael Silva, Hugo Plácido da Silva and Ana Fred| 12/05/2022|
 A009 Essentials of Post-processing | A | Low-Pass Filter, Python, Plotting| Update authors| dd/mm/aa|
 A010 Python File Handling and Visualization | A | `Python`, `File Handling`, `Data Visualization`| Rafael Silva, Hugo Plácido da Silva and Ana Fred| 22/05/2022|
+A011 How to flash a ScientISST board with the official firmware | A | `ScientISST`, `firmware`, `configuration`| Rui Maciel, Frederico Almeida Santos| 05/03/2023|
 B001 Basic active circuits with an OpAmp | B | ```Operational Amplifiers```, ```Circuit Analysis```, ```Arduino```| Afonso Raposo, Joana Pinto, Prof. João Sanches; Prof. Hugo Silva| 2021|
 B002 Frequency response | B | Electronic components, Instrumentation, Passive Circuits| Update authors| dd/mm/aa|
 B003 Introduction to the Laboratory Equipment | B | `Electronics`, `Equipment`, `Instrumentation`, `Arduino`, `Arduino IDE`, `Seeeduino Nano`| Ana Sofia Carmo, Afonso Raposo, Prof. Hugo Silva| 09/2022|
